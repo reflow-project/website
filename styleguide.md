@@ -1,5 +1,6 @@
 ---
-title: Styleguide
+#By hiding the title, the page wont be shown in the nav
+#title: Styleguide
 layout: page
 ---
 
