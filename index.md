@@ -49,7 +49,7 @@ How can the lifecycle of textiles be rethought in collaboration with citizens an
 
 #### Consortium members involved
 
-Integrating civic input and smart solutions into the management and design of public buildings
+Integrating civic input and smart solutions into the management and design of public buildings.
 
 #### Food Market 2.0
 
