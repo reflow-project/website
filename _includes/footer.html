@@ -1,0 +1,42 @@
+<footer class="container-fluid mt-5 py-4 bg-light">
+
+  <div class="">
+    <h3 class="text-center">{{ site.title | escape }}</h3>
+
+    <div class='d-flex justify-content-center'>
+      <ul class="list-unstyled">
+        <li class="my-3">
+          <i class="fab fa-github fa-lg"></i>
+          <a href="https://github.com/reflow-project" target="_blank"> Github </a>
+        </li>
+        {%- if site.email -%}
+        <li>
+          <i class="far fa-envelope fa-lg"></i>
+          <a class="" href="mailto:{{ site.email }}">{{ site.email }}</a>
+        </li>
+        {%- endif -%}
+
+        <li>
+          Contacts (google alias to map to Milena/Sally/Ida) + Social media + Github
+        </li>
+
+        <li>
+          Logos
+        </li>
+
+        <li>
+          Disclaimer
+        </li>
+
+        <li>
+          Made with Happiness.
+        </li>
+
+        <li>
+          Logo + Grant agreement Number 820937
+        </li>
+      </ul>
+    </div>
+  </div>
+
+</footer>
