@@ -87,11 +87,6 @@ Designing sustainable solutions to make the use of plastic more circular while a
 Developing a platform that will support urban energy monitoring and the co-creation of the city’s energy transition
 
 
-### Section 4
-
-REFLOW is also developing innovative tools to implement circular strategies  (Icons?)
-
-
 ### Handbooks & Toolkits
 
 A “how-to” on creating and monitoring regenerative and circular cities using information learned from local pilots.
@@ -115,25 +110,4 @@ An Open Data Dashboard made up of: a decision-making tool to enable a flexible a
 ### Webinars
 
 Webinars are a tool for knowledge transfer, exploring successes, problems and how-to’s to inspire and guide stakeholders and cities around the world.
-
-
-### Section 4
-
-Map?
-
-Consortium: 28 member organizations across Europe.
-
-Whos involved
-
-Fab City Network.
-
-
-### Section 5 
-
-Newsletter sign up (GDPR)
-
-Track the pilots’ progress, learn about local & regional events and get a heads up when new materials & tools go live. Best of all, you’ll hear about co-creation and design opportunities; we need you!
-
-
-
 
